@@ -1,5 +1,5 @@
 # target
-This is my frist repository.
+This is my frist git repository.
 <br>
 Author - Nikhil Bhardwaj
 <br>
