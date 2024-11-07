@@ -1,6 +1,12 @@
-# target
-This is my frist git repository.
+# window command 
+
+
+fristly go to the launch instance
 <br>
-Author - Nikhil Bhardwaj
+provide a new name name 
 <br>
-i am student
+create a new key pair 
+<br>
+select window microsoft (free tier)
+<br>
+
