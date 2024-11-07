@@ -1,2 +1,3 @@
 # target
-this is my frist repository
+This is my frist repository
+Author - Nikhil Bhardwaj
