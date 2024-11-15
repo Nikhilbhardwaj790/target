@@ -1,0 +1,20 @@
+create a new window server
+ frist tap : choose a launch instances
+ server name: provide the name of server
+server : choose window  server(free tier)
+t2 micro are same (no change)
+ key-pair : create password
+security group : Allow HTTP traffic from the internet
+gp (genrel purpose) : gp2
+then lanunch instance
+
+then check instance
+when system is created click on connect
+after connect go to rdp client
+get password : download remote desktop and paste there password
+then our window server will be started
+
+
+
+
+
